@@ -87,4 +87,4 @@
 
 > ✨ *"Code is like art. It’s better when it’s elegant, efficient, and a little bit fun."*
 
-
+<img src="https://raw.githubusercontent.com/ragadnofal/ragadnofal/output/assets/github-contribution-grid-snake.svg" alt="snake animation" />
