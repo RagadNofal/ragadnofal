@@ -53,12 +53,20 @@
 
 ---
 
-### 📊 GitHub Stats
+
+
+  <!-- Profile Views Badge (top-left corner) -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ragadnofal&label=Profile%20views&color=0e75b6&style=flat" alt="ragadnofal" />
+</p>
+
+<!-- GitHub Stats (stacked & centered) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ragadnofal&show_icons=true&theme=tokyonight" width="50%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragadnofal&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ragadnofal&show_icons=true&theme=tokyonight" width="60%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragadnofal&layout=compact&theme=tokyonight" width="60%" />
 </div>
+
 
 ---
 
