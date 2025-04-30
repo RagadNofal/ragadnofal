@@ -1,30 +1,83 @@
 <h1 align="center">Hi 👋, I'm Ragad Nofal</h1>
 <h3 align="center">🚀 Frontend Explorer | 🌐 Web Aesthetics Enthusiast | 💡 Lifelong Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ragadnofal" alt="ragadnofal" /></a> </p>
-
-- 🔭 I’m currently working on **A web app built with Laravel and MySQL, adding some interactive UI touches using JavaScript and Bootstrap — it’s been a great mix of backend logic and frontend polish.**
-
-- 🌱 I’m currently learning **How to bridge the gap between backend and frontend more smoothly — digging into things like API integration, better UI/UX practices**
-
-- 👯 I’m looking to collaborate on **Web projects where I can contribute to both backend and frontend — especially ones that need clean code, good structure, and a practical approach.**
-
-- 🤝 I’m looking for help with **Improving my skills**
-
-- 👨‍💻 All of my projects are available at [yourname@example.com](yourname@example.com)
-
-- 📫 How to reach me **ragadnofal2001@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ragad-nofal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ragad-nofal" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ragad+Nofal;Frontend+Explorer+%F0%9F%9A%80;Laravel+%7C+JS+%7C+UX+Lover;Always+learning+something+new+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ragadnofal&theme=algolia&row=2&column=3" alt="Trophies" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ragadnofal&show_icons=true&locale=en&layout=compact" alt="ragadnofal" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragadnofal&show_icons=true&locale=en" alt="ragadnofal" /></p>
+### 🌟 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragadnofal&" alt="ragadnofal" /></p>
+- 🔭 I’m currently working on **a web app built with Laravel and MySQL**, adding interactive UI touches using JavaScript and Bootstrap — a fun mix of backend logic and frontend polish.
+
+- 🌱 I’m learning how to **bridge the gap between backend and frontend** — especially API integration and better UX/UI practices.
+
+- 👯 I’m open to collaborations on **web projects** needing clean structure and practical design.
+
+- 📫 Reach me at: **ragadnofal2001@gmail.com**
+
+---
+
+### 📚 Currently Exploring
+- 🔌 Laravel API + JavaScript Fetch
+- 🎨 Clean UI design with Bootstrap
+- ⚡ Responsive frontends + performance
+
+---
+
+### 🧠 Fun Facts
+- 🎧 I love coding with lo-fi beats  
+- ✍️ I sketch ideas before I code  
+- 🧩 Debugging is like solving puzzles 🧠
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/></a>
+  <a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"/></a>
+  <a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"/></a>
+  <a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ragadnofal&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragadnofal&theme=tokyonight" width="48%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragadnofal&layout=compact&theme=tokyonight" width="50%" />
+</div>
+
+---
+
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/ragad-nofal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ragadnofal2001@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- Optionally add snake animation -->
+<!-- <img src="https://github.com/ragadnofal/ragadnofal/raw/main/github-contribution-grid-snake.svg" alt="snake gif" width="100%" /> -->
+
+> ✨ *"Code is like art. It’s better when it’s elegant, efficient, and a little bit fun."*
+
+
