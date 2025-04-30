@@ -1,0 +1,21 @@
+name: Generate Contribution Snake
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate snake game from GitHub contribution grid
+        uses: Platane/snk@v3.3.0
+        with:
+          github_user: ragadnofal  # Replace this with your GitHub username
+          svg_out_path: assets/github-contribution-grid-snake.svg
