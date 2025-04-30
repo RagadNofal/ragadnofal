@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ragad+Nofal;Frontend+Explorer+%F0%9F%9A%80;Laravel+%7C+JS+%7C+UX+Lover;Always+learning+something+new+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ragadnofal&theme=algolia&row=2&column=3" alt="Trophies" />
   </a>
