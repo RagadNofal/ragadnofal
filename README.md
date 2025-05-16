@@ -38,7 +38,16 @@
 - 🧩 Debugging is like solving puzzles 🧠
 
 ---
+<p align="left">
+  <a href="https://drive.google.com/file/d/1PljSi8qUqypKrhEXjcGpm9DBWAQdfKDJ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20CV-%231DA1F2?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+  <a href="https://ragadnofal.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
 
+---
 ### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"/></a>
